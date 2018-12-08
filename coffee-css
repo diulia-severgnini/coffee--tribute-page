@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(145deg, #D6C4B7, #C0A78D, #85613D);
+  padding: 10px 200px 10px 200px;
+}
+h1 {
+  font-family: 'Special Elite', cursive;
+  font-size: 60px;
+  text-align: center;
+  padding: -5px 0px -5px 0px;
+}
+h2, h3 {
+  font-family: 'Special Elite', cursive;
+}
+#img-caption, p {
+  font-family: 'Josefin Slab', serif;
+  font-size: 16px;
+}
+#tribute-info, #paragraphs {
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+}
+#image {
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#main {
+  position: relative;
+  width: 800px;
+  padding: 10px 10px 10px 10px;
+  background-color: #EFE9E6;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+a:hover {
+  color: #4D2A04;
+}
