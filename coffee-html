@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Special+Elite" rel="stylesheet" type="text/css">
+
+<div id="main">
+  
+  <h1 id="title">Coffee</h1>
+  
+  <div id="img-div">
+    <img id="image" src="https://www.visafranchise.com/wp-content/uploads/2017/09/Coffee-Photo-1.jpg" alt="A white cup of fresh hot coffee placed over coffee beans pouring out of a coffee bag."></img>
+  <div id="img-caption"><p align="center"><q>Smell the roses. Smell the coffee. Whatever it is that makes you happy.</q> - Rita Moreno</p></div>
+
+</div>
+
+<div id="tribute-info">
+<hr>
+  <p id="paragraphs">One of the most popular drinks in the world, coffee is a brewed drink prepared from roasted coffee beans and presented in a variety of ways.</br> It is usually served hot, although iced coffee is a popular alternative.</br> Once ripe, coffee berries are picked, processed, and dried. Dried coffee seeds (referred to as "beans") are roasted to varying degrees, depending on the desired flavour.</br> Roasted beans are ground and then brewed with near-boiling water to produce the beverage known as coffee.</br> Coffee is darkly coloured, bitter, slightly acidic and has a stimulating effect in humans, primarily due to its caffeine content.</p>
+<ul>
+  <li>The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.</li>
+  <li>The earliest credible evidence of coffee-drinking appears in Yemen in southern Arabia in the middle of the 15th century in Sufi shrines. By the 16th century, the drink had reached Persia, Turkey, and North Africa. From there, it spread to Europe and the rest of the world.</li>
+  <li>Coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, Indian subcontinent, and Africa.</li> 
+  <li>The two most commonly grown species are C. arabica and C. robusta.</li>
+  <li>Clinical studies indicate that moderate coffee consumption is benign or mildly beneficial in healthy adults, with continuing research on whether long-term consumption lowers the risk of some diseases, although those long-term studies are of generally poor quality.</li>
+  <li>As of 2016, Brazil was the leading grower of coffee beans, producing one-third of the world total.</li>
+</ul>
+
+<p id="paragraphs">Some controversy has been associated with coffee cultivation and the way developed countries trade with developing nations, as well as the impact on the environment with regards to the clearing of land for coffee-growing and water use.</br>Consequently, the markets for fair trade and organic coffee are expanding.</p>
+<hr>
+<h2>Fun Fact</h2>
+
+<p id="paragraphs">Coffee competitions take place across the globe with people at the regional competing to achieve national titles and then compete on the international stage.</br>World Coffee Events holds the largest of such events moving the location of the final competition each year. The competition includes the following events:</p>
+  <ul>
+    <li>Barista Championship</li>
+    <li>Brewers Cup</li>
+    <li>Latte Art</li>
+    <li>Cup Tasters.</li>
+</ul>
+<p id="paragraphs">A World Brewer's Cup Championship takes place in Melbourne, Australia, every year that houses contestants from around the world to crown the World's Coffee King.</p>
+<hr>
+<h3>More about coffee:</h3>
+<p id="paragraphs">If you would like to know more about coffee, <a id="tribute-link" accesskey="b" href=https://en.wikipedia.org/wiki/Coffee target="_blank">click here</a>.</p>
+</div>
+</div>
